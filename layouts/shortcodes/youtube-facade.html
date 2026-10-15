@@ -1,0 +1,8 @@
+{{- $id := .Get "id" -}}
+{{- $title := .Get "title" | default "Video" -}}
+<figure class="video-facade">
+  <a href="https://www.youtube.com/watch?v={{ $id }}" rel="noopener">
+    <img src="/foto/youtube-{{ $id }}.jpg" alt="Anteprima del video: {{ $title }}" loading="lazy">
+    <figcaption>{{ $title }} — guarda su YouTube (si apre solo al click)</figcaption>
+  </a>
+</figure>

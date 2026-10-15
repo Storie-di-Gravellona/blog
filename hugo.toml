@@ -1,0 +1,14 @@
+baseURL = "https://storie-di-gravellona.github.io/"
+title = "Storie di Gravellona"
+languageCode = "it-it"
+theme = "hugo-bearblog"
+
+[params]
+  author = "Matteo"
+  description = "Storie di Gravellona Lomellina: testi e foto originali, a puntate."
+  images = []
+  license = "CC BY 4.0 (testi, se non diversamente indicato)"
+  privacyPolicy = "/privacy.html"
+
+[outputs]
+  home = ["HTML", "RSS"]

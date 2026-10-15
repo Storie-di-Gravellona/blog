@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Storie di Gravellona</title>
+  <link href="https://storie-di-gravellona.github.io/"/>
+  <link rel="self" href="https://storie-di-gravellona.github.io/feed.xml"/>
+  <updated>2026-10-15T00:00:00Z</updated>
+  <id>https://storie-di-gravellona.github.io/</id>
+  <entry>
+    <title>Sito in costruzione</title>
+    <link href="https://storie-di-gravellona.github.io/"/>
+    <id>https://storie-di-gravellona.github.io/#avvio</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <summary>Il sito apre i lavori: testi e foto in arrivo.</summary>
+  </entry>
+</feed>
